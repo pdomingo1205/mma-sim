@@ -1,0 +1,15 @@
+{
+  "code": "STRAIGHT",
+  "description": "Straight",
+  "shortDesc": "Straight",
+  "longDesc": "Straight",
+  "powerMod": 1.0,
+  "accuracyMod":  1.0,
+  "speedMod":  1.0,
+  "moveCost": 80,
+  "combo": ["STRAIGHT", "LEAD_HOOK", "LEAD_UPPERCUT", "REAR_ROUNDHOUSE"],
+  "comboPowerMod": 0.7,
+  "comboSpeedMod":  1.2,
+  "comboAccuracyMod":  1.0,
+  "enabled":  true
+}

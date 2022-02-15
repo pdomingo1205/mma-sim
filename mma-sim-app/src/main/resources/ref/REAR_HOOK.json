@@ -1,0 +1,15 @@
+{
+  "code": "LEAD_HOOK",
+  "description": "Hook",
+  "shortDesc": "Hook",
+  "longDesc": "Hook",
+  "powerMod": 1.5,
+  "accuracyMod":  0.95,
+  "speedMod":  0.8,
+  "moveCost": 120,
+  "combo": ["STRAIGHT", "RIGHT_HOOK", "RIGHT_UPPERCUT"],
+  "comboPowerMod": 1.0,
+  "comboSpeedMod":  1.1,
+  "comboAccuracyMod":  1.0,
+  "enabled":  true
+}

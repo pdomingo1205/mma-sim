@@ -1,0 +1,15 @@
+{
+  "code": "JAB",
+  "description": "Jab",
+  "shortDesc": "Jab",
+  "longDesc": "Jab",
+  "powerMod": 0.8,
+  "accuracyMod":  1.0,
+  "speedMod":  1.1,
+  "moveCost": 60,
+  "combo": ["JAB", "STRAIGHT", "LEAD_UPPERCUT", "REAR_HOOK", "LEAD_HOOK", "LEAD_ROUNDHOUSE"],
+  "comboPowerMod": 1.0,
+  "comboSpeedMod":  1.2,
+  "comboAccuracyMod":  1.2,
+  "enabled":  true
+}

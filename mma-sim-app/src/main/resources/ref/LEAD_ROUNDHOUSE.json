@@ -1,0 +1,15 @@
+{
+  "code": "LEAD_ROUNDHOUSE",
+  "description": "Lead Roundhouse Kick",
+  "shortDesc": "Lead Roundhouse Kick",
+  "longDesc": "Lead Roundhouse Kick",
+  "powerMod": 1.5,
+  "accuracyMod":  1.0,
+  "speedMod":  1.0,
+  "moveCost": 100,
+  "combo": [],
+  "comboPowerMod": 1.0,
+  "comboSpeedMod":  1.0,
+  "comboAccuracyMod":  1.0,
+  "enabled":  true
+}

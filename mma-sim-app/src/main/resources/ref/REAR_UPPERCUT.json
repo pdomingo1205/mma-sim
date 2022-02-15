@@ -1,0 +1,15 @@
+{
+  "code": "REAR_UPPERCUT",
+  "description": "Uppercut",
+  "shortDesc": "Uppercut",
+  "longDesc": "Uppercut",
+  "powerMod": 2.0,
+  "accuracyMod":  0.8,
+  "speedMod":  0.6,
+  "moveCost": 140,
+  "combo": ["LEAD_HOOK", "LEAD_UPPERCUT"],
+  "comboPowerMod": 1.0,
+  "comboSpeedMod":  0.8,
+  "comboAccuracyMod":  0.8,
+  "enabled":  true
+}
